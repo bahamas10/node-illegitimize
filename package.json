@@ -1,0 +1,17 @@
+{
+  "name": "illegitimize",
+  "version": "0.0.0",
+  "description": "Take a filename and make it look like it was gathered through illegitimate means",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "main": "./illegitimize.js",
+  "bin": {
+    "illegitimize": "./bin/illegitimize.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/bahamas10/node-illegitimize.git",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
